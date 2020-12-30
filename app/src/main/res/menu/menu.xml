@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/wallet" android:title="My Wallet" android:icon="@drawable/wallet"/>
+    <item android:id="@+id/order" android:title="My Orders" android:icon="@drawable/orders"/>
+    <item android:id="@+id/offers" android:title="Offers" android:icon="@drawable/offers"/>
+    <item android:id="@+id/logout" android:title="LogOut" android:icon="@drawable/logout"/>
+    <item android:id="@+id/aboutus" android:title="About Us" android:icon="@drawable/about"/>
+    <item android:id="@+id/rateus" android:title="Rate Us" android:icon="@drawable/rate"/>
+    <item android:id="@+id/share" android:title="Share" android:icon="@drawable/share"/>
+
+</menu>
